@@ -3427,7 +3427,7 @@ Savings: 94%
 
 #### SKILL.md Structure (Claude Agent Skills Spec)
 
-```markdown
+````markdown
 ---
 name: create-github-pr
 description: Create and manage GitHub pull requests with proper templates and labels
@@ -3463,7 +3463,7 @@ description: Create and manage GitHub pull requests with proper templates and la
 
 ## Output
 Report PR URL and status to user.
-```
+````
 
 **Key rules for SKILL.md:**
 - Keep body under **500 lines** (split into reference files if longer)
