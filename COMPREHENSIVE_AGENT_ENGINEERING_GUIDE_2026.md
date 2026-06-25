@@ -2878,7 +2878,7 @@ final_answer("\n".join(results))
 
 Skills are **Markdown files**, not compiled code. The agent reads the instructions at runtime.
 
-```markdown
+````markdown
 # SKILL: Create GitHub Release
 
 ## When to Use
@@ -2918,7 +2918,7 @@ When the user asks to create a new release, tag a version, or publish a release.
 
 ## Output
 Report the release URL to the user.
-```
+````
 
 ### Why Markdown Skills Work
 
